@@ -8,7 +8,7 @@ const chalk = require('chalk')
 if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'Bellah~fuhGnKCY#s7nSUMwn_gms8mrwsXFRcU-tIRvbCxESWtvhwxMu2y0'
 //owmner v card
 global.ytname = "YT: GIDDYTENNOR" //ur yt chanel name
 global.socialm = "IG: @GIDDYTENNOR" //ur github or insta name
@@ -16,7 +16,7 @@ global.location = "Kenya" //ur location
 
 //new
 global.botname = process.env.BOT_NAME ||'𝐁𝐞𝐥𝐥𝐚𝐡 𝐗𝐦𝐝' //enter your  bot name here
-global.ownernumber = process.env.OWNER_NUMBER ||'254104245659' //ur owner number
+global.ownernumber = process.env.OWNER_NUMBER ||'254784937112' //ur owner number
 global.ownername = '© TENNOMODZ' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.wagc = "https://chat.whatsapp.com/Hs0AwkOaFzbGi5sjicdeTR" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
@@ -26,8 +26,8 @@ global.botscript = 'https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D' //'ht
 global.packname = process.env.PACK_NAME ||"BELLAH XMD" //enter your stickers author name here
 global.author = "Giddy-Tennor"
 global.creator = "254703726139@s.whatsapp.net"
-global.xprefix = process.env.PREFIX ||'.'
-global.premium = ["254703726139"] // Premium User
+global.xprefix = process.env.PREFIX ||'*'
+global.premium = ["254784937112"] // Premium User
 global.hituet = 0
 
 //bot sett
